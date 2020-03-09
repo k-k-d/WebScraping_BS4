@@ -42,7 +42,7 @@ for i in [1, 2, 3, 4, 5, 6]:
     for type_tag in type_tags:
         if(type_tag.find(name = 'div', attrs = {"class" :  "res-snippet-small-establishment"})):
             word = ''
-            for tag in type_tag.find_all(name = 'a'):
+            for tag in type_tag.find(name = 'div', attrs = {"class" :  "res-snippet-small-establishment"}).find_all(name = 'a'):
                 word += (tag.text.strip())
                 word += ', '
             word = word[: -1]

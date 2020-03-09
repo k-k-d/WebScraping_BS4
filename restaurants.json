@@ -3,7 +3,7 @@
         "restaurant_id": "1",
         "name": "Masala Mandi",
         "area": "Sarjapur Road",
-        "restaurant_type": "Casual Dining, Masala Mandi, Sarjapur Road",
+        "restaurant_type": "Casual Dining",
         "rating": "4.6",
         "number_of_votes": "1113"
     },
@@ -11,7 +11,7 @@
         "restaurant_id": "2",
         "name": "Levels",
         "area": "JP Nagar",
-        "restaurant_type": "Pub, Casual Dining, Levels, JP Nagar",
+        "restaurant_type": "Pub, Casual Dining",
         "rating": "NEW",
         "number_of_votes": "Nil"
     },
@@ -19,7 +19,7 @@
         "restaurant_id": "3",
         "name": "Big Pitcher",
         "area": "Sarjapur Road",
-        "restaurant_type": "Microbrewery, Casual Dining, Big Pitcher, Sarjapur Road",
+        "restaurant_type": "Microbrewery, Casual Dining",
         "rating": "4.5",
         "number_of_votes": "217"
     },
@@ -27,7 +27,7 @@
         "restaurant_id": "4",
         "name": "The Big Barbeque",
         "area": "Electronic City",
-        "restaurant_type": "Casual Dining, The Big Barbeque, Electronic City",
+        "restaurant_type": "Casual Dining",
         "rating": "4.8",
         "number_of_votes": "5353"
     },
@@ -35,7 +35,7 @@
         "restaurant_id": "5",
         "name": "Dr. Sheesha 24 Hours Gastro Pub",
         "area": "The Sahar Pavilion, Electronic City",
-        "restaurant_type": "Pub, Dr. Sheesha 24 Hours Gastro Pub, The Sahar Pavilion, Electronic City",
+        "restaurant_type": "Pub",
         "rating": "4.0",
         "number_of_votes": "232"
     },
@@ -43,7 +43,7 @@
         "restaurant_id": "6",
         "name": "Byg Brewski Brewing Company",
         "area": "Sarjapur Road",
-        "restaurant_type": "Microbrewery, Byg Brewski Brewing Company, Sarjapur Road",
+        "restaurant_type": "Microbrewery",
         "rating": "4.9",
         "number_of_votes": "23125"
     },
@@ -51,7 +51,7 @@
         "restaurant_id": "7",
         "name": "URU Brewpark",
         "area": "JP Nagar",
-        "restaurant_type": "Microbrewery, Casual Dining, URU Brewpark, JP Nagar",
+        "restaurant_type": "Microbrewery, Casual Dining",
         "rating": "4.3",
         "number_of_votes": "1656"
     },
@@ -59,7 +59,7 @@
         "restaurant_id": "8",
         "name": "Hoot",
         "area": "Sarjapur Road",
-        "restaurant_type": "Microbrewery, Casual Dining, Hoot, Sarjapur Road",
+        "restaurant_type": "Microbrewery, Casual Dining",
         "rating": "4.6",
         "number_of_votes": "11497"
     },
@@ -67,7 +67,7 @@
         "restaurant_id": "9",
         "name": "Brahma Brews",
         "area": "JP Nagar",
-        "restaurant_type": "Microbrewery, Casual Dining, Brahma Brews, JP Nagar",
+        "restaurant_type": "Microbrewery, Casual Dining",
         "rating": "4.9",
         "number_of_votes": "4033"
     },
@@ -75,7 +75,7 @@
         "restaurant_id": "10",
         "name": "The Fisherman's Wharf",
         "area": "Sarjapur Road",
-        "restaurant_type": "Casual Dining, Bar, The Fisherman's Wharf, Sarjapur Road",
+        "restaurant_type": "Casual Dining, Bar",
         "rating": "4.3",
         "number_of_votes": "4527"
     },
@@ -83,7 +83,7 @@
         "restaurant_id": "11",
         "name": "Shivaji Military Hotel",
         "area": "Jayanagar",
-        "restaurant_type": "Quick Bites, Shivaji Military Hotel, Jayanagar",
+        "restaurant_type": "Quick Bites",
         "rating": "4.2",
         "number_of_votes": "3411"
     },
@@ -91,7 +91,7 @@
         "restaurant_id": "12",
         "name": "AB's - Absolute Barbecues",
         "area": "BTM",
-        "restaurant_type": "Casual Dining, AB's - Absolute Barbecues, BTM",
+        "restaurant_type": "Casual Dining",
         "rating": "4.8",
         "number_of_votes": "7751"
     },
@@ -99,7 +99,7 @@
         "restaurant_id": "13",
         "name": "The Globe Grub",
         "area": "BTM",
-        "restaurant_type": "Casual Dining, The Globe Grub, BTM",
+        "restaurant_type": "Casual Dining",
         "rating": "4.7",
         "number_of_votes": "2444"
     },
@@ -107,23 +107,23 @@
         "restaurant_id": "14",
         "name": "Stories - The Brew Chapter",
         "area": "BTM",
-        "restaurant_type": "Microbrewery, Casual Dining, Stories - The Brew Chapter, BTM",
+        "restaurant_type": "Microbrewery, Casual Dining",
         "rating": "4.8",
         "number_of_votes": "3844"
     },
     "15": {
         "restaurant_id": "15",
-        "name": "Meghana Foods",
-        "area": "Jayanagar",
-        "restaurant_type": "Casual Dining, Meghana Foods, Jayanagar",
+        "name": "The Pump House",
+        "area": "JP Nagar",
+        "restaurant_type": "Microbrewery",
         "rating": "4.5",
-        "number_of_votes": "5218"
+        "number_of_votes": "2096"
     },
     "16": {
         "restaurant_id": "16",
         "name": "The Pump House",
         "area": "JP Nagar",
-        "restaurant_type": "Microbrewery, The Pump House, JP Nagar",
+        "restaurant_type": "Microbrewery",
         "rating": "4.5",
         "number_of_votes": "2096"
     },
@@ -131,7 +131,7 @@
         "restaurant_id": "17",
         "name": "Sarjapur Social",
         "area": "Sarjapur Road",
-        "restaurant_type": "Lounge, Casual Dining, Sarjapur Social, Sarjapur Road",
+        "restaurant_type": "Lounge, Casual Dining",
         "rating": "4.5",
         "number_of_votes": "2605"
     },
@@ -139,7 +139,7 @@
         "restaurant_id": "18",
         "name": "Deja Vu Buffet Bar",
         "area": "JP Nagar",
-        "restaurant_type": "Casual Dining, Bar, Deja Vu Buffet Bar, JP Nagar",
+        "restaurant_type": "Casual Dining, Bar",
         "rating": "4.6",
         "number_of_votes": "3948"
     },
@@ -147,7 +147,7 @@
         "restaurant_id": "19",
         "name": "Barbeque Nation",
         "area": "JP Nagar",
-        "restaurant_type": "Casual Dining, Barbeque Nation, JP Nagar",
+        "restaurant_type": "Casual Dining",
         "rating": "4.9",
         "number_of_votes": "5702"
     },
@@ -155,7 +155,7 @@
         "restaurant_id": "20",
         "name": "TBC Sky Lounge",
         "area": "HSR",
-        "restaurant_type": "Bar, Casual Dining, TBC Sky Lounge, HSR",
+        "restaurant_type": "Bar, Casual Dining",
         "rating": "4.9",
         "number_of_votes": "15815"
     },
@@ -163,7 +163,7 @@
         "restaurant_id": "21",
         "name": "46 Ounces Brewgarden",
         "area": "Electronic City",
-        "restaurant_type": "Microbrewery, 46 Ounces Brewgarden, Electronic City",
+        "restaurant_type": "Microbrewery",
         "rating": "4.6",
         "number_of_votes": "1701"
     },
@@ -171,7 +171,7 @@
         "restaurant_id": "22",
         "name": "Aurum Brew Works",
         "area": "Sarjapur Road",
-        "restaurant_type": "Microbrewery, Casual Dining, Aurum Brew Works, Sarjapur Road",
+        "restaurant_type": "Microbrewery, Casual Dining",
         "rating": "4.6",
         "number_of_votes": "1971"
     },
@@ -179,7 +179,7 @@
         "restaurant_id": "23",
         "name": "Xochi Bar And Kitchen",
         "area": "Bellandur",
-        "restaurant_type": "Bar, Casual Dining, Xochi Bar And Kitchen, Bellandur",
+        "restaurant_type": "Bar, Casual Dining",
         "rating": "4.6",
         "number_of_votes": "606"
     },
@@ -187,7 +187,7 @@
         "restaurant_id": "24",
         "name": "BLR Brewing Co.",
         "area": "Electronic City",
-        "restaurant_type": "Microbrewery, Casual Dining, BLR Brewing Co., Electronic City",
+        "restaurant_type": "Microbrewery, Casual Dining",
         "rating": "4.4",
         "number_of_votes": "491"
     },
@@ -195,7 +195,7 @@
         "restaurant_id": "25",
         "name": "Vapour Brewpub and Diner",
         "area": "Sarjapur Road",
-        "restaurant_type": "Microbrewery, Casual Dining, Vapour Brewpub and Diner, Sarjapur Road",
+        "restaurant_type": "Microbrewery, Casual Dining",
         "rating": "4.6",
         "number_of_votes": "4778"
     },
@@ -203,7 +203,7 @@
         "restaurant_id": "26",
         "name": "Fire Station",
         "area": "Electronic City",
-        "restaurant_type": "Pub, Casual Dining, Fire Station, Electronic City",
+        "restaurant_type": "Pub, Casual Dining",
         "rating": "4.7",
         "number_of_votes": "2232"
     },
@@ -211,7 +211,7 @@
         "restaurant_id": "27",
         "name": "Gilly's Restobar",
         "area": "Electronic City",
-        "restaurant_type": "Pub, Casual Dining, Gilly's Restobar, Electronic City",
+        "restaurant_type": "Pub, Casual Dining",
         "rating": "4.7",
         "number_of_votes": "3006"
     },
@@ -219,7 +219,7 @@
         "restaurant_id": "28",
         "name": "Hakuna Matata",
         "area": "JP Nagar",
-        "restaurant_type": "Casual Dining, Bar, Hakuna Matata, JP Nagar",
+        "restaurant_type": "Casual Dining, Bar",
         "rating": "4.4",
         "number_of_votes": "3178"
     },
@@ -227,7 +227,7 @@
         "restaurant_id": "29",
         "name": "Mavalli Tiffin Room (MTR)",
         "area": "Basavanagudi",
-        "restaurant_type": "Quick Bites, Mavalli Tiffin Room (MTR), Basavanagudi",
+        "restaurant_type": "Quick Bites",
         "rating": "4.4",
         "number_of_votes": "3198"
     },
@@ -235,7 +235,7 @@
         "restaurant_id": "30",
         "name": "Stegi - Modern Indian",
         "area": "Jayanagar",
-        "restaurant_type": "Casual Dining, Stegi - Modern Indian, Jayanagar",
+        "restaurant_type": "Casual Dining",
         "rating": "4.4",
         "number_of_votes": "897"
     },
@@ -243,7 +243,7 @@
         "restaurant_id": "31",
         "name": "Grasshopper",
         "area": "Bannerghatta Road",
-        "restaurant_type": "Fine Dining, Grasshopper, Bannerghatta Road",
+        "restaurant_type": "Fine Dining",
         "rating": "4.3",
         "number_of_votes": "788"
     },
@@ -251,7 +251,7 @@
         "restaurant_id": "32",
         "name": "Sattvam",
         "area": "JP Nagar",
-        "restaurant_type": "Casual Dining, Sattvam, JP Nagar",
+        "restaurant_type": "Casual Dining",
         "rating": "4.2",
         "number_of_votes": "651"
     },
@@ -259,7 +259,7 @@
         "restaurant_id": "33",
         "name": "House Of Commons",
         "area": "HSR",
-        "restaurant_type": "Bar, House Of Commons, HSR",
+        "restaurant_type": "Bar",
         "rating": "4.8",
         "number_of_votes": "5449"
     },
@@ -267,7 +267,7 @@
         "restaurant_id": "34",
         "name": "Levitate Brewery and Kitchen",
         "area": "JP Nagar",
-        "restaurant_type": "Microbrewery, Casual Dining, Levitate Brewery and Kitchen, JP Nagar",
+        "restaurant_type": "Microbrewery, Casual Dining",
         "rating": "4.6",
         "number_of_votes": "2170"
     },
@@ -275,7 +275,7 @@
         "restaurant_id": "35",
         "name": "The Barbecue Kingdom",
         "area": "Electronic City",
-        "restaurant_type": "Casual Dining, The Barbecue Kingdom, Electronic City",
+        "restaurant_type": "Casual Dining",
         "rating": "4.5",
         "number_of_votes": "473"
     },
@@ -291,7 +291,7 @@
         "restaurant_id": "37",
         "name": "Gufha - The President Hotel",
         "area": "The President Hotel, Jayanagar",
-        "restaurant_type": "Casual Dining, Gufha - The President Hotel, The President Hotel, Jayanagar",
+        "restaurant_type": "Casual Dining",
         "rating": "4.1",
         "number_of_votes": "2006"
     },
@@ -299,7 +299,7 @@
         "restaurant_id": "38",
         "name": "What the Ale?!",
         "area": "Electronic City",
-        "restaurant_type": "Microbrewery, Casual Dining, What the Ale?!, Electronic City",
+        "restaurant_type": "Microbrewery, Casual Dining",
         "rating": "4.4",
         "number_of_votes": "474"
     },
@@ -307,7 +307,7 @@
         "restaurant_id": "39",
         "name": "Taaza Thindi",
         "area": "Jayanagar",
-        "restaurant_type": "Quick Bites, Taaza Thindi, Jayanagar",
+        "restaurant_type": "Quick Bites",
         "rating": "4.9",
         "number_of_votes": "4745"
     },
@@ -315,7 +315,7 @@
         "restaurant_id": "40",
         "name": "Fat Owl",
         "area": "JP Nagar",
-        "restaurant_type": "Bar, Casual Dining, Fat Owl, JP Nagar",
+        "restaurant_type": "Bar, Casual Dining",
         "rating": "4.4",
         "number_of_votes": "506"
     },
@@ -323,7 +323,7 @@
         "restaurant_id": "41",
         "name": "Al Daaz",
         "area": "HSR",
-        "restaurant_type": "Casual Dining, Al Daaz, HSR",
+        "restaurant_type": "Casual Dining",
         "rating": "4.3",
         "number_of_votes": "1363"
     },
@@ -331,7 +331,7 @@
         "restaurant_id": "42",
         "name": "Go Native",
         "area": "Jayanagar",
-        "restaurant_type": "Casual Dining, Go Native, Jayanagar",
+        "restaurant_type": "Casual Dining",
         "rating": "4.3",
         "number_of_votes": "1577"
     },
@@ -339,7 +339,7 @@
         "restaurant_id": "43",
         "name": "OPUS Club",
         "area": "OPUS, Sarjapur Road",
-        "restaurant_type": "Pub, OPUS Club, OPUS, Sarjapur Road",
+        "restaurant_type": "Pub",
         "rating": "4.3",
         "number_of_votes": "2409"
     },
@@ -347,7 +347,7 @@
         "restaurant_id": "44",
         "name": "Whattay Kitchen and Brew",
         "area": "Kanakapura Road",
-        "restaurant_type": "Microbrewery, Casual Dining, Whattay Kitchen and Brew, Kanakapura Road",
+        "restaurant_type": "Microbrewery, Casual Dining",
         "rating": "4.3",
         "number_of_votes": "310"
     },
@@ -355,7 +355,7 @@
         "restaurant_id": "45",
         "name": "Subz",
         "area": "Jayanagar",
-        "restaurant_type": "Casual Dining, Subz, Jayanagar",
+        "restaurant_type": "Casual Dining",
         "rating": "4.2",
         "number_of_votes": "2141"
     },
@@ -363,7 +363,7 @@
         "restaurant_id": "46",
         "name": "Tipsy Bull - The Bar Exchange",
         "area": "JP Nagar",
-        "restaurant_type": "Bar, Casual Dining, Tipsy Bull - The Bar Exchange, JP Nagar",
+        "restaurant_type": "Bar, Casual Dining",
         "rating": "4.7",
         "number_of_votes": "1885"
     },
@@ -371,7 +371,7 @@
         "restaurant_id": "47",
         "name": "Onesta",
         "area": "HSR",
-        "restaurant_type": "Casual Dining, Caf\u00e9, Onesta, HSR",
+        "restaurant_type": "Casual Dining, Caf\u00e9",
         "rating": "4.4",
         "number_of_votes": "4769"
     },
@@ -379,7 +379,7 @@
         "restaurant_id": "48",
         "name": "1522 - The Pub",
         "area": "JP Nagar",
-        "restaurant_type": "Pub, 1522 - The Pub, JP Nagar",
+        "restaurant_type": "Pub",
         "rating": "4.5",
         "number_of_votes": "264"
     },
@@ -387,7 +387,7 @@
         "restaurant_id": "49",
         "name": "Stories",
         "area": "JP Nagar",
-        "restaurant_type": "Pub, Casual Dining, Stories, JP Nagar",
+        "restaurant_type": "Pub, Casual Dining",
         "rating": "4.6",
         "number_of_votes": "4034"
     },
@@ -395,7 +395,7 @@
         "restaurant_id": "50",
         "name": "By The Peepal",
         "area": "JP Nagar",
-        "restaurant_type": "Microbrewery, Casual Dining, By The Peepal, JP Nagar",
+        "restaurant_type": "Microbrewery, Casual Dining",
         "rating": "4.2",
         "number_of_votes": "540"
     },
@@ -403,7 +403,7 @@
         "restaurant_id": "51",
         "name": "Brother Barley Brewing Company",
         "area": "HSR",
-        "restaurant_type": "Microbrewery, Casual Dining, Brother Barley Brewing Company, HSR",
+        "restaurant_type": "Microbrewery, Casual Dining",
         "rating": "4.3",
         "number_of_votes": "518"
     },
@@ -411,7 +411,7 @@
         "restaurant_id": "52",
         "name": "Vidyarthi Bhavan",
         "area": "Basavanagudi",
-        "restaurant_type": "Quick Bites, Vidyarthi Bhavan, Basavanagudi",
+        "restaurant_type": "Quick Bites",
         "rating": "4.3",
         "number_of_votes": "4884"
     },
@@ -419,7 +419,7 @@
         "restaurant_id": "53",
         "name": "La Casa Brewery And Kitchen",
         "area": "Sarjapur Road",
-        "restaurant_type": "Microbrewery, Casual Dining, La Casa Brewery And Kitchen, Sarjapur Road",
+        "restaurant_type": "Microbrewery, Casual Dining",
         "rating": "4.4",
         "number_of_votes": "2922"
     },
@@ -427,7 +427,7 @@
         "restaurant_id": "54",
         "name": "Broadway - The Gourmet Theatre",
         "area": "HSR",
-        "restaurant_type": "Casual Dining, Bar, Broadway - The Gourmet Theatre, HSR",
+        "restaurant_type": "Casual Dining, Bar",
         "rating": "4.3",
         "number_of_votes": "1433"
     },
@@ -435,7 +435,7 @@
         "restaurant_id": "55",
         "name": "Rural Blues",
         "area": "Sarjapur Road",
-        "restaurant_type": "Casual Dining, Bar, Rural Blues, Sarjapur Road",
+        "restaurant_type": "Casual Dining, Bar",
         "rating": "4.4",
         "number_of_votes": "2032"
     },
@@ -443,7 +443,7 @@
         "restaurant_id": "56",
         "name": "Chulha Chauki Da Dhaba",
         "area": "Sarjapur Road",
-        "restaurant_type": "Casual Dining, Chulha Chauki Da Dhaba, Sarjapur Road",
+        "restaurant_type": "Casual Dining",
         "rating": "4.4",
         "number_of_votes": "449"
     },
@@ -451,7 +451,7 @@
         "restaurant_id": "57",
         "name": "Empire Restaurant",
         "area": "Jayanagar",
-        "restaurant_type": "Casual Dining, Empire Restaurant, Jayanagar",
+        "restaurant_type": "Casual Dining",
         "rating": "4.6",
         "number_of_votes": "6817"
     },
@@ -459,7 +459,7 @@
         "restaurant_id": "58",
         "name": "Hammered",
         "area": "HSR",
-        "restaurant_type": "Bar, Casual Dining, Hammered, HSR",
+        "restaurant_type": "Bar, Casual Dining",
         "rating": "4.4",
         "number_of_votes": "2166"
     },
@@ -467,7 +467,7 @@
         "restaurant_id": "59",
         "name": "Shift",
         "area": "HSR",
-        "restaurant_type": "Lounge, Casual Dining, Shift, HSR",
+        "restaurant_type": "Lounge, Casual Dining",
         "rating": "4.1",
         "number_of_votes": "2458"
     },
@@ -475,7 +475,7 @@
         "restaurant_id": "60",
         "name": "The Hidden Home",
         "area": "Sarjapur Road",
-        "restaurant_type": "Casual Dining, The Hidden Home, Sarjapur Road",
+        "restaurant_type": "Casual Dining",
         "rating": "4.1",
         "number_of_votes": "1634"
     },
@@ -491,7 +491,7 @@
         "restaurant_id": "62",
         "name": "Village - The Soul of India",
         "area": "Bangalore Central, JP Nagar",
-        "restaurant_type": "Casual Dining, Village - The Soul of India, Bangalore Central, JP Nagar",
+        "restaurant_type": "Casual Dining",
         "rating": "4.0",
         "number_of_votes": "2538"
     },
@@ -499,7 +499,7 @@
         "restaurant_id": "63",
         "name": "Habit@",
         "area": "Bellandur",
-        "restaurant_type": "Bar, Casual Dining, Habit@, Bellandur",
+        "restaurant_type": "Bar, Casual Dining",
         "rating": "4.4",
         "number_of_votes": "351"
     },
@@ -507,7 +507,7 @@
         "restaurant_id": "64",
         "name": "Spice It - Ibis Bengaluru",
         "area": "Ibis Bengaluru, Marathahalli",
-        "restaurant_type": "Casual Dining, Spice It - Ibis Bengaluru, Ibis Bengaluru, Marathahalli",
+        "restaurant_type": "Casual Dining",
         "rating": "4.2",
         "number_of_votes": "727"
     },
@@ -515,7 +515,7 @@
         "restaurant_id": "65",
         "name": "The Punjabi Rasoi",
         "area": "Sarjapur Road",
-        "restaurant_type": "Casual Dining, The Punjabi Rasoi, Sarjapur Road",
+        "restaurant_type": "Casual Dining",
         "rating": "4.2",
         "number_of_votes": "673"
     },
@@ -523,7 +523,7 @@
         "restaurant_id": "66",
         "name": "Hangover",
         "area": "HSR",
-        "restaurant_type": "Bar, Casual Dining, Hangover, HSR",
+        "restaurant_type": "Bar, Casual Dining",
         "rating": "4.3",
         "number_of_votes": "2125"
     },
@@ -531,7 +531,7 @@
         "restaurant_id": "67",
         "name": "Basil Bistro",
         "area": "HSR",
-        "restaurant_type": "Casual Dining, Basil Bistro, HSR",
+        "restaurant_type": "Casual Dining",
         "rating": "4.5",
         "number_of_votes": "576"
     },
@@ -539,7 +539,7 @@
         "restaurant_id": "68",
         "name": "Cable Car",
         "area": "Jayanagar",
-        "restaurant_type": "Casual Dining, Cable Car, Jayanagar",
+        "restaurant_type": "Casual Dining",
         "rating": "4.2",
         "number_of_votes": "1441"
     },
@@ -547,7 +547,7 @@
         "restaurant_id": "69",
         "name": "Brahmin's Coffee Bar",
         "area": "Basavanagudi",
-        "restaurant_type": "Quick Bites, Brahmin's Coffee Bar, Basavanagudi",
+        "restaurant_type": "Quick Bites",
         "rating": "4.7",
         "number_of_votes": "2933"
     },
@@ -563,7 +563,7 @@
         "restaurant_id": "71",
         "name": "Millennials",
         "area": "JP Nagar",
-        "restaurant_type": "Bar, Casual Dining, Millennials, JP Nagar",
+        "restaurant_type": "Bar, Casual Dining",
         "rating": "4.4",
         "number_of_votes": "234"
     },
@@ -571,7 +571,7 @@
         "restaurant_id": "72",
         "name": "Oyster",
         "area": "HSR",
-        "restaurant_type": "Casual Dining, Bar, Oyster, HSR",
+        "restaurant_type": "Casual Dining, Bar",
         "rating": "4.5",
         "number_of_votes": "268"
     },
@@ -579,7 +579,7 @@
         "restaurant_id": "73",
         "name": "Chutney Chang",
         "area": "Jayanagar",
-        "restaurant_type": "Casual Dining, Chutney Chang, Jayanagar",
+        "restaurant_type": "Casual Dining",
         "rating": "4.1",
         "number_of_votes": "2487"
     },
@@ -587,7 +587,7 @@
         "restaurant_id": "74",
         "name": "Chili's American Grill & Bar",
         "area": "Bellandur",
-        "restaurant_type": "Casual Dining, Bar, Chili's American Grill & Bar, Bellandur",
+        "restaurant_type": "Casual Dining, Bar",
         "rating": "4.6",
         "number_of_votes": "2310"
     },
@@ -595,7 +595,7 @@
         "restaurant_id": "75",
         "name": "Toscano",
         "area": "Jayanagar",
-        "restaurant_type": "Casual Dining, Toscano, Jayanagar",
+        "restaurant_type": "Casual Dining",
         "rating": "4.3",
         "number_of_votes": "1334"
     },
@@ -603,7 +603,7 @@
         "restaurant_id": "76",
         "name": "Indigo X II P",
         "area": "HSR",
-        "restaurant_type": "Pub, Indigo X II P, HSR",
+        "restaurant_type": "Pub",
         "rating": "4.3",
         "number_of_votes": "1001"
     },
@@ -611,7 +611,7 @@
         "restaurant_id": "77",
         "name": "LIT Gastro Pub",
         "area": "Jayanagar",
-        "restaurant_type": "Pub, LIT Gastro Pub, Jayanagar",
+        "restaurant_type": "Pub",
         "rating": "4.0",
         "number_of_votes": "621"
     },
@@ -619,7 +619,7 @@
         "restaurant_id": "78",
         "name": "Public - The Rooftop Bar And Kitchen",
         "area": "Bannerghatta Road",
-        "restaurant_type": "Casual Dining, Bar, Public - The Rooftop Bar And Kitchen, Bannerghatta Road",
+        "restaurant_type": "Casual Dining, Bar",
         "rating": "4.3",
         "number_of_votes": "1652"
     },
@@ -627,7 +627,7 @@
         "restaurant_id": "79",
         "name": "Kesariya",
         "area": "JP Nagar",
-        "restaurant_type": "Casual Dining, Kesariya, JP Nagar",
+        "restaurant_type": "Casual Dining",
         "rating": "4.2",
         "number_of_votes": "1377"
     },
@@ -635,7 +635,7 @@
         "restaurant_id": "80",
         "name": "Waffle Cart",
         "area": "BTM",
-        "restaurant_type": "Dessert Parlor, Waffle Cart, BTM",
+        "restaurant_type": "Dessert Parlor",
         "rating": "3.8",
         "number_of_votes": "113"
     }
